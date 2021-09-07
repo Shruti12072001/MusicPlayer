@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\c cpp"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\java"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web development",
+		"files.associations": {
+			"iostream": "cpp",
+			"cmath": "cpp",
+			"new": "cpp"
+		}
+	}
+}
